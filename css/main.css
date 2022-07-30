@@ -25,6 +25,14 @@ h3 {
     padding: 20px 0 10px 0;
 }
 
+p {
+    line-height: 1.6;
+}
+
+ul {
+    line-height: 1.6;
+}
+
 .header {
     font-size: 100%;
 }
@@ -33,12 +41,13 @@ h3 {
     height: 100%;
     font-size: 150%;
     text-align: center;
-    padding: 0 20px;
+    padding: 0 20px 20px 20px;
 }
 
 .news {
     height: 100%;
     font-size: 150%;
+    list-style-position: inside;
     padding: 0 40px 20px 40px;
 }
 
