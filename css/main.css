@@ -34,22 +34,17 @@ ul {
 }
 
 a:link {
-    #color: #262626; 
+    color: #2962F9;
     text-decoration: none;
 }
 
 a:hover {
-    color: #262626; 
+    color: #2962F9;
     text-decoration: underline;
 }
 
-#a:active {
-#    color: #fff;
-#    background-color: #262626; 
-#}
-
 a:visited {
-    #color: #262626; 
+    color: #2962F9;
     text-decoration: none;
 }
 
@@ -76,9 +71,9 @@ video {
 
 .inf {
     height: 100%;
+    width: 80%;
     font-size: 150%;
     text-align: left;
-    width: 80%;
     margin-left: auto;
     margin-right: auto;
     padding: 0 20px 40px 20px;
