@@ -43,10 +43,10 @@ a:hover {
     text-decoration: underline;
 }
 
-a:active {
-    color: #fff;
-    background-color: #262626; 
-}
+#a:active {
+#    color: #fff;
+#    background-color: #262626; 
+#}
 
 a:visited {
     #color: #262626; 
