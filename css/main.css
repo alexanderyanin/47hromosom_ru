@@ -33,6 +33,26 @@ ul {
     line-height: 1.6;
 }
 
+a:link {
+    #color: #262626; 
+    text-decoration: none;
+}
+
+a:hover {
+    color: #262626; 
+    text-decoration: underline;
+}
+
+a:active {
+    color: #fff;
+    background-color: #262626; 
+}
+
+a:visited {
+    #color: #262626; 
+    text-decoration: none;
+}
+
 img {
     display: block;
     margin-left: auto;
@@ -49,6 +69,11 @@ video {
     font-size: 100%;
 }
 
+.menu {
+    font-size: 130%;
+    text-align: center;
+}
+
 .inf {
     height: 100%;
     font-size: 150%;
@@ -56,14 +81,14 @@ video {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
-    padding: 0 20px 20px 20px;
+    padding: 0 20px 40px 20px;
 }
 
 .news {
     height: 100%;
     font-size: 150%;
     list-style-position: inside;
-    padding: 0 40px 20px 40px;
+    padding: 0 40px 40px 40px;
 }
 
 .footer {
